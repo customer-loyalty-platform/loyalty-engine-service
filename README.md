@@ -310,3 +310,7 @@ docker build -t loyalty-engine-service:latest .
 docker run -p 8081:8081 --env-file .env loyalty-engine-service:latest
 ```
 
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
